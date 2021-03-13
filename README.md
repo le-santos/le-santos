@@ -9,7 +9,7 @@ I'm a self-taught web developer building my skils by creating some projects with
 
 - 🌱 I’m currently learning Ruby, Ruby on Rails and TDD on a course by [Campus Code](https://www.campuscode.com.br/). 
 - 💻 I’m currently working on some projects with Rails applications, like this one [job-board-system](https://github.com/le-santos/job-board-system) 
-- ⚡ Fun fact: I have a masters degree in Music (classical guitar) and have been working as a musician/teacher for many years.
+- :musical_note: Fun fact: I have a masters degree in Music (classical guitar) and have been working as a musician/teacher for many years.
 - :hammer_and_wrench: Some technologies/tools I am confortable working with:
 
 <span>
