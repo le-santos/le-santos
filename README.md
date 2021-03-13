@@ -5,7 +5,7 @@
 
 ### About me
 
-I'm a self-taught web developer building my skils by creating some projects with React, Javascript, HTML, CSS.
+I'm a self-taught web developer building my skills by creating some projects with React, Javascript, HTML, CSS.
 
 - 🌱 I’m currently learning Ruby, Ruby on Rails and TDD on a course by [Campus Code](https://www.campuscode.com.br/). 
 - 💻 I’m currently working on some projects with Rails applications, like this one [job-board-system](https://github.com/le-santos/job-board-system) 
