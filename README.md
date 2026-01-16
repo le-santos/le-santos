@@ -5,12 +5,6 @@
 
 I'm a web developer with professional experience in Ruby, Ruby on Rails, Javascript, React.
 
-- 💻 I'm currently working for [Rebase](https://www.rebase.com.br/) where I’ve contributed to diverse projects using Ruby on Rails in monolithic, microservices, and API-only architectures.
-- 🌱 I’m exploring Elixir, Phoenix, and diving deeper into functional programming.
-- :musical_note: Fun fact: I have a Master’s degree in Music (classical guitar) and spent years as a musician and teacher. I believe the problem-solving and structured thinking from music have surprisingly helped me navigate complex systems.
-- 💙 Love remote jobs and asyc collaboration!
-
-
 :hammer_and_wrench: Some technologies I am confortable working with:
 
 <span>
